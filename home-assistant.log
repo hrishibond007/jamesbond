@@ -919,3 +919,390 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
     raise exception(message or response.data)
 aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:34:21 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:35:42 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:37:02 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:38:23 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:39:43 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:41:04 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:42:25 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:43:45 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:45:06 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:46:27 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:47:47 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:49:08 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:50:28 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:51:49 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:53:10 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:54:30 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:55:51 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:57:12 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:58:32 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 13:59:53 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:01:14 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:02:34 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:03:55 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:05:16 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:06:36 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:07:57 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:09:17 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:10:38 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:11:59 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:13:19 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:14:40 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:16:00 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:17:24 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:18:44 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:20:05 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:21:25 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:22:46 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:24:07 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:25:27 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:26:48 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:28:09 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:29:29 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
+2022-03-10 14:30:50 ERROR (MainThread) [homeassistant.components.github] Bad credentials
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/github/coordinator.py", line 125, in _async_update_data
+    response = await self._client.graphql(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/github.py", line 225, in graphql
+    return await self._client.async_call_api(
+  File "/usr/local/lib/python3.9/site-packages/aiogithubapi/client.py", line 140, in async_call_api
+    raise exception(message or response.data)
+aiogithubapi.exceptions.GitHubAuthenticationException: Bad credentials
