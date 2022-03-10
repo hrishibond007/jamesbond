@@ -1,0 +1,72 @@
+{
+    "version": 1,
+    "minor_version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.xtplsynergy",
+                "state": "unknown",
+                "attributes": {
+                    "editable": false,
+                    "id": "xtplsynergy",
+                    "user_id": "8dac49cf1d1c4553b1a211b92f45af75",
+                    "friendly_name": "xtplsynergy"
+                },
+                "last_changed": "2022-03-09T07:43:02.333654+00:00",
+                "last_updated": "2022-03-09T07:43:03.780896+00:00",
+                "context": {
+                    "id": "05ce22e1fe344fe19f4cc1e69f640c2b",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "extra_data": null,
+            "last_seen": "2022-03-10T05:33:45.807278+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "automation.config_push_to_git",
+                "state": "on",
+                "attributes": {
+                    "last_triggered": "2022-03-09T13:25:36.490326+00:00",
+                    "mode": "single",
+                    "current": 0,
+                    "id": "1646825292818",
+                    "friendly_name": "config push to git"
+                },
+                "last_changed": "2022-03-09T12:59:26.498012+00:00",
+                "last_updated": "2022-03-09T13:25:36.493859+00:00",
+                "context": {
+                    "id": "92fd766383928048e68adfc2b1fd6380",
+                    "parent_id": "550e080e4f16e88f8155d41433435906",
+                    "user_id": null
+                }
+            },
+            "extra_data": null,
+            "last_seen": "2022-03-10T05:33:45.807278+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "automation.home_assistant_config_folder_push_to_github",
+                "state": "off",
+                "attributes": {
+                    "last_triggered": "2022-03-09T11:25:14.426318+00:00",
+                    "mode": "single",
+                    "current": 0,
+                    "id": "1646822269345",
+                    "friendly_name": "Home assistant config folder push to github"
+                },
+                "last_changed": "2022-03-09T11:25:52.265894+00:00",
+                "last_updated": "2022-03-09T11:25:52.265894+00:00",
+                "context": {
+                    "id": "0bb57cc3ff7c8b8cbde9b79aa5cc4ea3",
+                    "parent_id": null,
+                    "user_id": "8dac49cf1d1c4553b1a211b92f45af75"
+                }
+            },
+            "extra_data": null,
+            "last_seen": "2022-03-09T11:28:14.163683+00:00"
+        }
+    ]
+}

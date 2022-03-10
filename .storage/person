@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "minor_version": 1,
+    "key": "person",
+    "data": {
+        "items": [
+            {
+                "name": "xtplsynergy",
+                "user_id": "8dac49cf1d1c4553b1a211b92f45af75",
+                "device_trackers": [],
+                "id": "xtplsynergy"
+            }
+        ]
+    }
+}

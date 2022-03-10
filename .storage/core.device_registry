@@ -1,0 +1,250 @@
+{
+    "version": 1,
+    "minor_version": 3,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "OS"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Operating System",
+                "name": "Home Assistant Operating System",
+                "sw_version": "7.4",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "9a9c1289cbc036e1873a0245fdcd8967",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": null
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_configurator"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "File editor",
+                "sw_version": "5.3.3",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "ef52d791357fa58b5937d302a0d65a68",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/core_configurator"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_mariadb"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "MariaDB",
+                "sw_version": "2.4.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "a44f948294c67f19028ffeb2bbfa3151",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/core_mariadb"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "a0d7b954_appdaemon"
+                    ]
+                ],
+                "manufacturer": "Home Assistant Community Add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "AppDaemon 4",
+                "sw_version": "0.8.1",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "a83571796229c250e21a4aa6a2ab9905",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/a0d7b954_appdaemon"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "a0d7b954_phpmyadmin"
+                    ]
+                ],
+                "manufacturer": "Home Assistant Community Add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "phpMyAdmin",
+                "sw_version": "0.7.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "578e23df62051c79640aba422a8071d9",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/a0d7b954_phpmyadmin"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "a0d7b954_motioneye"
+                    ]
+                ],
+                "manufacturer": "Home Assistant Community Add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "motionEye",
+                "sw_version": "0.17.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "8265db6acfd9ee838bdcf8f17fbbb1f3",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/a0d7b954_motioneye"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_ssh"
+                    ]
+                ],
+                "manufacturer": "Official add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "Terminal & SSH",
+                "sw_version": "9.3.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "e306cfb553efe4659348815b05b54c97",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/core_ssh"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "a0d7b954_ssh"
+                    ]
+                ],
+                "manufacturer": "Home Assistant Community Add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "SSH & Web Terminal",
+                "sw_version": "10.0.2",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "24ceef56213e582e23c0df8adff22a5f",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/a0d7b954_ssh"
+            },
+            {
+                "config_entries": [
+                    "ad0e46579afa16a3192d1de733884a48"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "a0d7b954_vscode"
+                    ]
+                ],
+                "manufacturer": "Home Assistant Community Add-ons",
+                "model": "Home Assistant Add-on",
+                "name": "Studio Code Server",
+                "sw_version": "4.1.0",
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "ffeb5be3b9587330c6c2eda8638da00b",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "homeassistant://hassio/addon/a0d7b954_vscode"
+            },
+            {
+                "config_entries": [
+                    "9b63a998711a49456b8257bb0aa070b5"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "github",
+                        "home-assistant/core"
+                    ]
+                ],
+                "manufacturer": "GitHub",
+                "model": null,
+                "name": "home-assistant/core",
+                "sw_version": null,
+                "hw_version": null,
+                "entry_type": "service",
+                "id": "49b23d1baf8f42816afdf88d93ea9b9a",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null,
+                "configuration_url": "https://github.com/home-assistant/core"
+            }
+        ],
+        "deleted_devices": []
+    }
+}

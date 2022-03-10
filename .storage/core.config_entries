@@ -1,0 +1,54 @@
+{
+    "version": 1,
+    "minor_version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "ad0e46579afa16a3192d1de733884a48",
+                "version": 1,
+                "domain": "hassio",
+                "title": "Supervisor",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "system",
+                "unique_id": "hassio",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "f942c2bc57f05fa693543618fb5b7bb4",
+                "version": 1,
+                "domain": "radio_browser",
+                "title": "Radio Browser",
+                "data": {},
+                "options": {},
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "onboarding",
+                "unique_id": null,
+                "disabled_by": null
+            },
+            {
+                "entry_id": "9b63a998711a49456b8257bb0aa070b5",
+                "version": 1,
+                "domain": "github",
+                "title": "",
+                "data": {
+                    "access_token": "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"
+                },
+                "options": {
+                    "repositories": [
+                        "home-assistant/core"
+                    ]
+                },
+                "pref_disable_new_entities": false,
+                "pref_disable_polling": false,
+                "source": "user",
+                "unique_id": null,
+                "disabled_by": null
+            }
+        ]
+    }
+}

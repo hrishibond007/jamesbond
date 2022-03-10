@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "minor_version": 1,
+    "key": "auth_provider.homeassistant",
+    "data": {
+        "users": [
+            {
+                "username": "xtplsynergy",
+                "password": "JDJiJDEyJE1Lcm9ZZHMxU2ovb1NiVVpCT0ltNi50THVock95amVrcFJiWG90Wi5rNk5tRXIwNk5zNGpX"
+            }
+        ]
+    }
+}
